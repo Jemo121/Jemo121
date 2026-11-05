@@ -1,0 +1,24 @@
+stages:
+  - generate
+
+snake:
+  stage: generate
+  image:
+    name: ghcr.io/platane/snk/svg-only:latest
+    entrypoint: [""]
+  script:
+    - mkdir -p dist
+    - >
+      /svg-only
+      --github_user_name Jemo121
+      --outputs "dist/snake-dark.svg#github-dark"
+    - git config user.email "ci@noreply.gitlab.com"
+    - git config user.name "CI"
+    - git add dist/snake-dark.svg
+    - git diff --cached --quiet || git commit -m "chore: update contribution snake"
+    - >
+      git push
+      "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git"
+      HEAD:${CI_DEFAULT_BRANCH}
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "schedule"
