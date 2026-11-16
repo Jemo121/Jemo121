@@ -100,21 +100,9 @@
 
 <div align="center">
 
-![Certifications](https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:003580&height=100&text=Certifications&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=45)
+![Stats](https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,100:ff0000&height=80&text=Forensics%20of%20My%20Free%20Time&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=45)
 
 </div>
-
-</br>
-
-<div align="center">
-
-<img src="./assets/certs-honeycomb.svg" alt="Certifications honeycomb" />
-
-</div>
-
-</br>
-
-## Stats
 
 <div align="center">
 
@@ -126,7 +114,7 @@
 
 <div align="center">
 
-[![Codewars](https://github-readme-codewars.vercel.app/api?username=Jemo121&theme=dracula)](https://www.codewars.com/users/Jemo121)
+![Contributions](https://gitblend.com/api/contributions?github=Jemo121&gitlab=jemo121&theme=gitlab)
 
 </div>
 
@@ -134,7 +122,7 @@
 
 <div align="center">
 
-![Contributions](https://gitblend.com/api/contributions?github=Jemo121&gitlab=jemo121&theme=gitlab)
+[![Codewars](https://github-readme-codewars.vercel.app/api?username=Jemo121&theme=dracula)](https://www.codewars.com/users/Jemo121)
 
 </div>
 
@@ -165,7 +153,27 @@
 
 </br>
 
-## Projects
+<div align="center">
+
+![Certifications](https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:003580&height=100&text=Certifications&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=45)
+
+</div>
+
+</br>
+
+<div align="center">
+
+<img src="./assets/certs-honeycomb.svg" alt="Certifications honeycomb" />
+
+</div>
+
+</br>
+
+<div align="center">
+
+![Projects](https://capsule-render.vercel.app/api?type=slice&color=0:1A1A2E,100:9d4edd&height=60&text=Projects&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=40)
+
+</div>
 
 <div align="center"">
 <p> 👇 Check out the things I am working on 👇 </p>
