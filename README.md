@@ -140,6 +140,31 @@
 
 </br>
 
+<div align="center">
+
+<table border="0" align="center">
+<tr>
+<td>
+<img src="https://github-stats-extended.vercel.app/api?username=Jemo121&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&rank_icon=percentile" alt="Stats" />
+</td>
+<td>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jemo121&theme=tokyonight&hide_border=true&layout=donut" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+</div>
+
+</br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Jemo121&theme=tokyo-night&hide_border=true&area=true&bg_color=0d0d0d&line=ff0000&point=ff6600&area_color=ff0000&custom_title=My%20DMs%20%E2%9D%8C%20%20%7C%20%20Me%20Ghosting%20society%20%E2%9C%94%EF%B8%8F" alt="Activity Graph" />
+
+</div>
+
+</br>
+
 ## Projects
 
 <div align="center"">
