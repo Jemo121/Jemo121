@@ -22,7 +22,7 @@ snake:
     - git config user.name "CI"
     - git add dist/snake-dark.svg
     - git diff --cached --quiet || git commit -m "chore: update contribution snake"
-    - git push "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git" HEAD:${CI_DEFAULT_BRANCH}
+    - 'git push "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git" HEAD:${CI_DEFAULT_BRANCH}'
   rules:
     - if: $CI_PIPELINE_SOURCE == "schedule"
     - when: manual
@@ -39,7 +39,7 @@ generate-svgs:
     - go run ./tools/gen-stack-brick-svg.go assets/stack-brick.svg
     - git add assets/certs-honeycomb.svg assets/stack-brick.svg
     - git diff --cached --quiet || git commit -m "chore: regenerate stack and certs SVGs"
-    - git push "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git" HEAD:${CI_DEFAULT_BRANCH}
+    - 'git push "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git" HEAD:${CI_DEFAULT_BRANCH}'
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
       changes:
