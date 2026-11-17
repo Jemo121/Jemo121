@@ -13,7 +13,7 @@ markdown-lint:
 snake:
   stage: generate
   image:
-    name: ghcr.io/platane/snk/svg-only:latest
+    name: ghcr.io/platane/snk:latest
     entrypoint: [""]
   script:
     - mkdir -p dist
