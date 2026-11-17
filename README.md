@@ -88,7 +88,7 @@
 
 <div align="center">
 
-![Stack](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:326CE5&height=100&text=Stack&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=45)
+![Stack](https://capsule-render.vercel.app/api?type=venom&color=0:00ADD8,100:326CE5&height=100&text=Stack&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=45)
 
 </div>
 
@@ -155,7 +155,7 @@
 
 <div align="center">
 
-![Certifications](https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:003580&height=100&text=Certifications&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=45)
+![Certifications](https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:003580&height=100&text=Certifications&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=45&reversal=true)
 
 </div>
 
@@ -171,7 +171,7 @@
 
 <div align="center">
 
-![Projects](https://capsule-render.vercel.app/api?type=slice&color=0:1A1A2E,100:9d4edd&height=60&text=Projects&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=40)
+<img src="./assets/animated-ferris.gif" width="60" border="0" alt="holy-crab" /><img src="./assets/animated-ferris.gif" width="60" border="0" alt="holy-crab" /><img src="./assets/animated-ferris.gif" width="60" border="0" alt="holy-crab" /><img src="./assets/animated-ferris.gif" width="60" border="0" alt="holy-crab" /><img src="./assets/animated-ferris.gif" width="60" border="0" alt="holy-crab" /><img src="./assets/animated-ferris.gif" width="60" border="0" alt="holy-crab" /><img src="./assets/animated-ferris.gif" width="60" border="0" alt="holy-crab" /><img src="./assets/animated-ferris.gif" width="60" border="0" alt="holy-crab" /><img src="./assets/animated-ferris.gif" width="60" border="0" alt="holy-crab" /><img src="./assets/animated-ferris.gif" width="60" border="0" alt="holy-crab" /><img src="./assets/animated-ferris.gif" width="60" border="0" alt="holy-crab" /><img src="./assets/animated-ferris.gif" width="60" border="0" alt="holy-crab" />
 
 </div>
 
