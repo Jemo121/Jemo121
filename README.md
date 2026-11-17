@@ -104,21 +104,7 @@
 
 </div>
 
-<div align="center">
 
-![Snake](./dist/snake-dark.svg)
-
-</div>
-
-</br>
-
-<div align="center">
-
-![Contributions](https://gitblend.com/api/contributions?github=Jemo121&gitlab=jemo121&theme=gitlab)
-
-</div>
-
-</br>
 
 <div align="center">
 
