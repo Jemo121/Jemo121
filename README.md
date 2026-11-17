@@ -104,13 +104,6 @@
 
 </div>
 
-<div align="center">
-
-![Snake](./dist/snake-dark.svg)
-
-</div>
-
-</br>
 
 <div align="center">
 
