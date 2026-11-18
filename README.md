@@ -110,8 +110,8 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Jemo121&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&rank_icon=percentile" alt="Stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jemo121&theme=tokyonight&hide_border=true&layout=donut" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=Jemo121&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&rank_icon=percentile" alt="Stats" width="380" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jemo121&theme=tokyonight&hide_border=true&layout=donut" alt="Top Languages" width="320" />
 
 </div>
 
