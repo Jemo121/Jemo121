@@ -5,71 +5,36 @@
 <td valign="top">
 
 <pre>
-                                                      .                         .
-      .    .     .            +         .         .                 .  .
-       .                 .                   .               .
-               .    ,,o         .                  __.o+.
-     .            od8^                  .      oo888888P^b           .
-        .       ,".o'      .     .             `b^'""`b -`b   .
-              ,'.'o'             .   .          t. = -`b -`t.    .
-             ; d o' .        ___          _.--.. 8  -  `b  =`b
-         .  dooo8<       .o:':__;o.     ,;;o88%%8bb - = `b  =`b.    .
-     .     |^88^88=. .,x88/::/ | \\`;;;;;;d%%%%%88%88888/%x88888
-           :-88=88%%L8`%`|::|_>-<_||%;;%;8%%=;:::=%8;;\%%%%\8888
-       .   |=88 88%%|HHHH|::| >-< |||;%;;8%%=;:::=%8;;;%%%%+|]88        .
-           | 88-88%%LL.%.%b::Y_|_Y/%|;;;;`%8%%oo88%:o%.;;;;+|]88  .
-           Yx88o88^^'"`^^%8boooood..-\H_Hd%P%%88%P^%%^'\;;;/%%88
-          . `"\^\          ~"""""'      d%P """^" ;   = `+' - P
-    .        `.`.b   .                :<%%>  .   :  -   d' - P      . .
-               .`.b     .        .    `788      ,'-  = d' =.'
-        .       ``.b.                           :..-  :'  P
-             .   `q.>b         .               `^^^:::::,'       .
-      +            ""^^               .                     .
-   .                                           .               .       .
-     .         .          .                 .        +         .
-</pre>
-
-</td>
-<td valign="top">
-
-<pre>
- jemo121@F--Winblows
- ───────────────────────────────
- OS        CachyOS (Arch BTW)
- Kernel    Linux
- Shell     Fish · Bash
- Editor    Neovim + LazyVim
- Terminal  Kitty
- ───────────────────────────────
- Focus     Blue Team
-           DevSecOps
-           Cloud Native
-           Junior Gamer
- ───────────────────────────────
- Hobbies   <a href="https://open.spotify.com/playlist/0IzjHHwukkpAPrEZy4hi9q?si=e124bdb5627f46c5" target="_blank">Music</a>
-           Swimming
-           Judo
-           <a href="https://www.chess.com/member/jemo121" target="_blank">Chess</a>
-           Boardgames
-           <a href="https://steamcommunity.com/id/Jemo121/" target="_blank">Gaming</a>
- ───────────────────────────────
- Website   <a href="https://emilio.eguia.me" target="_blank">emilio.eguia.me</a>
- GitLab    <a href="https://gitlab.com/jemo121" target="_blank">gitlab.com/jemo121</a>
- GitHub    <a href="https://github.com/Jemo121" target="_blank">github.com/Jemo121</a>
- LinkedIn  <a href="https://linkedin.com/in/emilio-e-b4350624a/" target="_blank">emilio-e-b4350624a</a>
+                                               .            jemo121@F--Winblows
+   .     .            +         .         .                 ───────────────────────────────
+                 .                   .               .      OS        CachyOS (Arch BTW)
+       .    ,,o         .                  __.o+.           Kernel    Linux
+          od8^                  .      oo888888P^b          Shell     Fish · Bash
+.       ,".o'      .     .             `b^'""`b -`b   .     Editor    Neovim + LazyVim
+      ,'.'o'             .   .          t. = -`b -`t.    .  Terminal  Kitty
+     ; d o' .        ___          _.--.. 8  -  `b  =`b      ───────────────────────────────
+ .  dooo8<       .o:':__;o.     ,;;o88%%8bb - = `b  =`b.    Focus     Blue Team
+   |^88^88=. .,x88/::/ | \\`;;;;;;d%%%%%88%88888/%x88888              DevSecOps
+   :-88=88%%L8`%`|::|_>-<_||%;;%;8%%=;:::=%8;;\%%%%\8888   .          Cloud Native
+   |=88 88%%|HHHH|::| >-< |||;%;;8%%=;:::=%8;;;%%%%+|]88              Junior Gamer
+   | 88-88%%LL.%.%b::Y_|_Y/%|;;;;`%8%%oo88%:o%.;;;;+|]88    ───────────────────────────────
+   Yx88o88^^'"`^^%8boooood..-\H_Hd%P%%88%P^%%^'\;;;/%%88    Hobbies   <a href="https://open.spotify.com/playlist/0IzjHHwukkpAPrEZy4hi9q?si=e124bdb5627f46c5" target="_blank">Music</a>
+  . `"\^\          ~"""""'      d%P """^" ;   = `+' - P               Swimming
+     `.`.b   .                :<%%>  .   :  -   d' - P                <a href="https://www.chess.com/member/jemo121" target="_blank">Chess</a>
+       .`.b     .        .    `788      ,'-  = d' =.'        +        Judo
+.       ``.b.                           :..-  :'  P                   <a href="https://steamcommunity.com/id/Jemo121/" target="_blank">Gaming</a>
+     .   `q.>b         .               `^^^:::::,'       .            Boardgames
+           ""^^               .                     .       ───────────────────────────────
+                                       .               .    Website   <a href="https://emilio.eguia.me" target="_blank">emilio.eguia.me</a>
+       .          .                 .        +         .    GitLab    <a href="https://gitlab.com/jemo121" target="_blank">gitlab.com/jemo121</a>
+                                         .                  GitHub    <a href="https://github.com/Jemo121" target="_blank">github.com/Jemo121</a>
+             .                                              LinkedIn  <a href="https://linkedin.com/in/emilio-e-b4350624a/" target="_blank">emilio-e-b4350624a</a>
+   .                  .             .               .
 </pre>
 
 </td>
 </tr>
 </table>
-
-</div>
-
-<div align="center">
-
-<img src="./assets/empire-insignia.jpg" alt="Galactic Empire Insignia" width="180" />
-
-</div>
 
 ---
 
